@@ -13,7 +13,7 @@
 - **The Secret Founder Matrix**: An exclusive Admin Dashboard providing unparalleled insights and user management.
 
 ## 🔗 Live Links
-- **Demo**: [Insert Vercel Live Demo Link]
+- **Demo**: https://dev-pulse-ai-orcin.vercel.app/
 - **Video Walkthrough**: https://www.loom.com/share/c0e59b53b2904b4b8a7af82025842777
 ## 🛡️ Security Note
 This project uses environment variables that should **never** be committed to version control. You must create your own `.env.local` file in the root directory.
