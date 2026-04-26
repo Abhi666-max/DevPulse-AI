@@ -14,8 +14,7 @@
 
 ## 🔗 Live Links
 - **Demo**: [Insert Vercel Live Demo Link]
-- **Video Walkthrough**: [Insert YouTube/Loom Video Walkthrough]
-
+- **Video Walkthrough**: https://www.loom.com/share/c0e59b53b2904b4b8a7af82025842777
 ## 🛡️ Security Note
 This project uses environment variables that should **never** be committed to version control. You must create your own `.env.local` file in the root directory.
 
